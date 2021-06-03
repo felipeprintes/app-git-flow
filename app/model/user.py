@@ -12,7 +12,8 @@ def json_construct(nome, idade):
         "idade": idade
     }
 
-    return json_user_information 
+    #return json_user_information
+    print(json_user_information) 
 
 
 if __name__=="__main__":
